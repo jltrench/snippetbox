@@ -4,8 +4,6 @@
 *.so
 *.dylib
 
-web
-/cmd/web/web
 /tmp/
 
 *.test
